@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Movies Component > matches snapshot 1`] = `
+<DocumentFragment>
+  <h2>
+    Avatar
+  </h2>
+  <h3>
+    8
+  </h3>
+  <h4>
+    James Cameron
+  </h4>
+  <hr />
+</DocumentFragment>
+`;
